@@ -1,16 +1,15 @@
-## Hi there 👋
+# HOLOSUN Ukraine
 
-<!--
-**holosun-ukraine/holosun-ukraine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official dealer and authorized distributor of the HOLOSUN brand in Ukraine.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository contains technical materials, structured data examples, and project-related resources for:
+
+🌐 https://holosun.org.ua
+
+## Contact
+
+Website: https://holosun.org.ua  
+Instagram: https://www.instagram.com/holosun.org.ua/  
+YouTube: https://www.youtube.com/channel/UCdvtAL81HrprzQAFHh7sQeQ
